@@ -1,0 +1,11 @@
+D:\work\C#projects\CSharp.net\Udemy Projeler\UcakBiletUygulamasi\UcakBiletUygulamasi\bin\Debug\UcakBiletUygulamasi.exe.config
+D:\work\C#projects\CSharp.net\Udemy Projeler\UcakBiletUygulamasi\UcakBiletUygulamasi\bin\Debug\UcakBiletUygulamasi.exe
+D:\work\C#projects\CSharp.net\Udemy Projeler\UcakBiletUygulamasi\UcakBiletUygulamasi\bin\Debug\UcakBiletUygulamasi.pdb
+D:\work\C#projects\CSharp.net\Udemy Projeler\UcakBiletUygulamasi\UcakBiletUygulamasi\obj\Debug\UcakBiletUygulamasi.csproj.AssemblyReference.cache
+D:\work\C#projects\CSharp.net\Udemy Projeler\UcakBiletUygulamasi\UcakBiletUygulamasi\obj\Debug\UcakBiletUygulamasi.csproj.SuggestedBindingRedirects.cache
+D:\work\C#projects\CSharp.net\Udemy Projeler\UcakBiletUygulamasi\UcakBiletUygulamasi\obj\Debug\UcakBiletUygulamasi.Form1.resources
+D:\work\C#projects\CSharp.net\Udemy Projeler\UcakBiletUygulamasi\UcakBiletUygulamasi\obj\Debug\UcakBiletUygulamasi.Properties.Resources.resources
+D:\work\C#projects\CSharp.net\Udemy Projeler\UcakBiletUygulamasi\UcakBiletUygulamasi\obj\Debug\UcakBiletUygulamasi.csproj.GenerateResource.cache
+D:\work\C#projects\CSharp.net\Udemy Projeler\UcakBiletUygulamasi\UcakBiletUygulamasi\obj\Debug\UcakBiletUygulamasi.csproj.CoreCompileInputs.cache
+D:\work\C#projects\CSharp.net\Udemy Projeler\UcakBiletUygulamasi\UcakBiletUygulamasi\obj\Debug\UcakBiletUygulamasi.exe
+D:\work\C#projects\CSharp.net\Udemy Projeler\UcakBiletUygulamasi\UcakBiletUygulamasi\obj\Debug\UcakBiletUygulamasi.pdb

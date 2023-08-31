@@ -1,0 +1,11 @@
+D:\work\C#projects\CSharp.net\Udemy Projeler\LoginPaneli\LoginPaneli\bin\Debug\LoginPaneli.exe.config
+D:\work\C#projects\CSharp.net\Udemy Projeler\LoginPaneli\LoginPaneli\bin\Debug\LoginPaneli.exe
+D:\work\C#projects\CSharp.net\Udemy Projeler\LoginPaneli\LoginPaneli\bin\Debug\LoginPaneli.pdb
+D:\work\C#projects\CSharp.net\Udemy Projeler\LoginPaneli\LoginPaneli\obj\Debug\LoginPaneli.csproj.AssemblyReference.cache
+D:\work\C#projects\CSharp.net\Udemy Projeler\LoginPaneli\LoginPaneli\obj\Debug\LoginPaneli.csproj.SuggestedBindingRedirects.cache
+D:\work\C#projects\CSharp.net\Udemy Projeler\LoginPaneli\LoginPaneli\obj\Debug\LoginPaneli.Form1.resources
+D:\work\C#projects\CSharp.net\Udemy Projeler\LoginPaneli\LoginPaneli\obj\Debug\LoginPaneli.Properties.Resources.resources
+D:\work\C#projects\CSharp.net\Udemy Projeler\LoginPaneli\LoginPaneli\obj\Debug\LoginPaneli.csproj.GenerateResource.cache
+D:\work\C#projects\CSharp.net\Udemy Projeler\LoginPaneli\LoginPaneli\obj\Debug\LoginPaneli.csproj.CoreCompileInputs.cache
+D:\work\C#projects\CSharp.net\Udemy Projeler\LoginPaneli\LoginPaneli\obj\Debug\LoginPaneli.exe
+D:\work\C#projects\CSharp.net\Udemy Projeler\LoginPaneli\LoginPaneli\obj\Debug\LoginPaneli.pdb
