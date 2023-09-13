@@ -1,0 +1,10 @@
+D:\work\C#projects\CSharp.net\Udemy Projeler\ProggressBar\ProggressBar\bin\Debug\ProggressBar.exe.config
+D:\work\C#projects\CSharp.net\Udemy Projeler\ProggressBar\ProggressBar\bin\Debug\ProggressBar.exe
+D:\work\C#projects\CSharp.net\Udemy Projeler\ProggressBar\ProggressBar\bin\Debug\ProggressBar.pdb
+D:\work\C#projects\CSharp.net\Udemy Projeler\ProggressBar\ProggressBar\obj\Debug\ProggressBar.csproj.AssemblyReference.cache
+D:\work\C#projects\CSharp.net\Udemy Projeler\ProggressBar\ProggressBar\obj\Debug\ProggressBar.Form1.resources
+D:\work\C#projects\CSharp.net\Udemy Projeler\ProggressBar\ProggressBar\obj\Debug\ProggressBar.Properties.Resources.resources
+D:\work\C#projects\CSharp.net\Udemy Projeler\ProggressBar\ProggressBar\obj\Debug\ProggressBar.csproj.GenerateResource.cache
+D:\work\C#projects\CSharp.net\Udemy Projeler\ProggressBar\ProggressBar\obj\Debug\ProggressBar.csproj.CoreCompileInputs.cache
+D:\work\C#projects\CSharp.net\Udemy Projeler\ProggressBar\ProggressBar\obj\Debug\ProggressBar.exe
+D:\work\C#projects\CSharp.net\Udemy Projeler\ProggressBar\ProggressBar\obj\Debug\ProggressBar.pdb

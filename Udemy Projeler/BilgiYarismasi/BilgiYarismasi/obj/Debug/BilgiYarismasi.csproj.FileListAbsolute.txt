@@ -1,0 +1,10 @@
+D:\work\C#projects\CSharp.net\Udemy Projeler\BilgiYarismasi\BilgiYarismasi\bin\Debug\BilgiYarismasi.exe.config
+D:\work\C#projects\CSharp.net\Udemy Projeler\BilgiYarismasi\BilgiYarismasi\bin\Debug\BilgiYarismasi.exe
+D:\work\C#projects\CSharp.net\Udemy Projeler\BilgiYarismasi\BilgiYarismasi\bin\Debug\BilgiYarismasi.pdb
+D:\work\C#projects\CSharp.net\Udemy Projeler\BilgiYarismasi\BilgiYarismasi\obj\Debug\BilgiYarismasi.csproj.AssemblyReference.cache
+D:\work\C#projects\CSharp.net\Udemy Projeler\BilgiYarismasi\BilgiYarismasi\obj\Debug\BilgiYarismasi.Form1.resources
+D:\work\C#projects\CSharp.net\Udemy Projeler\BilgiYarismasi\BilgiYarismasi\obj\Debug\BilgiYarismasi.Properties.Resources.resources
+D:\work\C#projects\CSharp.net\Udemy Projeler\BilgiYarismasi\BilgiYarismasi\obj\Debug\BilgiYarismasi.csproj.GenerateResource.cache
+D:\work\C#projects\CSharp.net\Udemy Projeler\BilgiYarismasi\BilgiYarismasi\obj\Debug\BilgiYarismasi.csproj.CoreCompileInputs.cache
+D:\work\C#projects\CSharp.net\Udemy Projeler\BilgiYarismasi\BilgiYarismasi\obj\Debug\BilgiYarismasi.exe
+D:\work\C#projects\CSharp.net\Udemy Projeler\BilgiYarismasi\BilgiYarismasi\obj\Debug\BilgiYarismasi.pdb

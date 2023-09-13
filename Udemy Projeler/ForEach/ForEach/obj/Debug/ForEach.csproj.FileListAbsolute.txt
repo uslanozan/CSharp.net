@@ -1,0 +1,10 @@
+D:\work\C#projects\CSharp.net\Udemy Projeler\ForEach\ForEach\bin\Debug\ForEach.exe.config
+D:\work\C#projects\CSharp.net\Udemy Projeler\ForEach\ForEach\bin\Debug\ForEach.exe
+D:\work\C#projects\CSharp.net\Udemy Projeler\ForEach\ForEach\bin\Debug\ForEach.pdb
+D:\work\C#projects\CSharp.net\Udemy Projeler\ForEach\ForEach\obj\Debug\ForEach.csproj.AssemblyReference.cache
+D:\work\C#projects\CSharp.net\Udemy Projeler\ForEach\ForEach\obj\Debug\ForEach.Form1.resources
+D:\work\C#projects\CSharp.net\Udemy Projeler\ForEach\ForEach\obj\Debug\ForEach.Properties.Resources.resources
+D:\work\C#projects\CSharp.net\Udemy Projeler\ForEach\ForEach\obj\Debug\ForEach.csproj.GenerateResource.cache
+D:\work\C#projects\CSharp.net\Udemy Projeler\ForEach\ForEach\obj\Debug\ForEach.csproj.CoreCompileInputs.cache
+D:\work\C#projects\CSharp.net\Udemy Projeler\ForEach\ForEach\obj\Debug\ForEach.exe
+D:\work\C#projects\CSharp.net\Udemy Projeler\ForEach\ForEach\obj\Debug\ForEach.pdb

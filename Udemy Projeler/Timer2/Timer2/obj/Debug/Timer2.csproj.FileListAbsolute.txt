@@ -1,0 +1,10 @@
+D:\work\C#projects\CSharp.net\Udemy Projeler\Timer2\Timer2\bin\Debug\Timer2.exe.config
+D:\work\C#projects\CSharp.net\Udemy Projeler\Timer2\Timer2\bin\Debug\Timer2.exe
+D:\work\C#projects\CSharp.net\Udemy Projeler\Timer2\Timer2\bin\Debug\Timer2.pdb
+D:\work\C#projects\CSharp.net\Udemy Projeler\Timer2\Timer2\obj\Debug\Timer2.csproj.AssemblyReference.cache
+D:\work\C#projects\CSharp.net\Udemy Projeler\Timer2\Timer2\obj\Debug\Timer2.Form1.resources
+D:\work\C#projects\CSharp.net\Udemy Projeler\Timer2\Timer2\obj\Debug\Timer2.Properties.Resources.resources
+D:\work\C#projects\CSharp.net\Udemy Projeler\Timer2\Timer2\obj\Debug\Timer2.csproj.GenerateResource.cache
+D:\work\C#projects\CSharp.net\Udemy Projeler\Timer2\Timer2\obj\Debug\Timer2.csproj.CoreCompileInputs.cache
+D:\work\C#projects\CSharp.net\Udemy Projeler\Timer2\Timer2\obj\Debug\Timer2.exe
+D:\work\C#projects\CSharp.net\Udemy Projeler\Timer2\Timer2\obj\Debug\Timer2.pdb

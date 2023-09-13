@@ -1,0 +1,10 @@
+D:\work\C#projects\CSharp.net\Udemy Projeler\KararYapilari\KararYapilari\bin\Debug\KararYapilari.exe.config
+D:\work\C#projects\CSharp.net\Udemy Projeler\KararYapilari\KararYapilari\bin\Debug\KararYapilari.exe
+D:\work\C#projects\CSharp.net\Udemy Projeler\KararYapilari\KararYapilari\bin\Debug\KararYapilari.pdb
+D:\work\C#projects\CSharp.net\Udemy Projeler\KararYapilari\KararYapilari\obj\Debug\KararYapilari.csproj.AssemblyReference.cache
+D:\work\C#projects\CSharp.net\Udemy Projeler\KararYapilari\KararYapilari\obj\Debug\KararYapilari.Form1.resources
+D:\work\C#projects\CSharp.net\Udemy Projeler\KararYapilari\KararYapilari\obj\Debug\KararYapilari.Properties.Resources.resources
+D:\work\C#projects\CSharp.net\Udemy Projeler\KararYapilari\KararYapilari\obj\Debug\KararYapilari.csproj.GenerateResource.cache
+D:\work\C#projects\CSharp.net\Udemy Projeler\KararYapilari\KararYapilari\obj\Debug\KararYapilari.csproj.CoreCompileInputs.cache
+D:\work\C#projects\CSharp.net\Udemy Projeler\KararYapilari\KararYapilari\obj\Debug\KararYapilari.exe
+D:\work\C#projects\CSharp.net\Udemy Projeler\KararYapilari\KararYapilari\obj\Debug\KararYapilari.pdb

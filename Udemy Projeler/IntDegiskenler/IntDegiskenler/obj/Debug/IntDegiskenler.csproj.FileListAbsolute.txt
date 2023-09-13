@@ -1,0 +1,10 @@
+D:\work\C#projects\CSharp.net\Udemy Projeler\IntDegiskenler\IntDegiskenler\bin\Debug\IntDegiskenler.exe.config
+D:\work\C#projects\CSharp.net\Udemy Projeler\IntDegiskenler\IntDegiskenler\bin\Debug\IntDegiskenler.exe
+D:\work\C#projects\CSharp.net\Udemy Projeler\IntDegiskenler\IntDegiskenler\bin\Debug\IntDegiskenler.pdb
+D:\work\C#projects\CSharp.net\Udemy Projeler\IntDegiskenler\IntDegiskenler\obj\Debug\IntDegiskenler.csproj.AssemblyReference.cache
+D:\work\C#projects\CSharp.net\Udemy Projeler\IntDegiskenler\IntDegiskenler\obj\Debug\IntDegiskenler.Form1.resources
+D:\work\C#projects\CSharp.net\Udemy Projeler\IntDegiskenler\IntDegiskenler\obj\Debug\IntDegiskenler.Properties.Resources.resources
+D:\work\C#projects\CSharp.net\Udemy Projeler\IntDegiskenler\IntDegiskenler\obj\Debug\IntDegiskenler.csproj.GenerateResource.cache
+D:\work\C#projects\CSharp.net\Udemy Projeler\IntDegiskenler\IntDegiskenler\obj\Debug\IntDegiskenler.csproj.CoreCompileInputs.cache
+D:\work\C#projects\CSharp.net\Udemy Projeler\IntDegiskenler\IntDegiskenler\obj\Debug\IntDegiskenler.exe
+D:\work\C#projects\CSharp.net\Udemy Projeler\IntDegiskenler\IntDegiskenler\obj\Debug\IntDegiskenler.pdb
