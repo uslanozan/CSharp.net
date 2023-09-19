@@ -1,0 +1,10 @@
+D:\work\C#projects\CSharp.net\Udemy Projeler\EkstraAracKullanimi\EkstraAracKullanimi\bin\Debug\EkstraAracKullanimi.exe.config
+D:\work\C#projects\CSharp.net\Udemy Projeler\EkstraAracKullanimi\EkstraAracKullanimi\bin\Debug\EkstraAracKullanimi.exe
+D:\work\C#projects\CSharp.net\Udemy Projeler\EkstraAracKullanimi\EkstraAracKullanimi\bin\Debug\EkstraAracKullanimi.pdb
+D:\work\C#projects\CSharp.net\Udemy Projeler\EkstraAracKullanimi\EkstraAracKullanimi\obj\Debug\EkstraAracKullanimi.csproj.AssemblyReference.cache
+D:\work\C#projects\CSharp.net\Udemy Projeler\EkstraAracKullanimi\EkstraAracKullanimi\obj\Debug\EkstraAracKullanimi.Form1.resources
+D:\work\C#projects\CSharp.net\Udemy Projeler\EkstraAracKullanimi\EkstraAracKullanimi\obj\Debug\EkstraAracKullanimi.Properties.Resources.resources
+D:\work\C#projects\CSharp.net\Udemy Projeler\EkstraAracKullanimi\EkstraAracKullanimi\obj\Debug\EkstraAracKullanimi.csproj.GenerateResource.cache
+D:\work\C#projects\CSharp.net\Udemy Projeler\EkstraAracKullanimi\EkstraAracKullanimi\obj\Debug\EkstraAracKullanimi.csproj.CoreCompileInputs.cache
+D:\work\C#projects\CSharp.net\Udemy Projeler\EkstraAracKullanimi\EkstraAracKullanimi\obj\Debug\EkstraAracKullanimi.exe
+D:\work\C#projects\CSharp.net\Udemy Projeler\EkstraAracKullanimi\EkstraAracKullanimi\obj\Debug\EkstraAracKullanimi.pdb

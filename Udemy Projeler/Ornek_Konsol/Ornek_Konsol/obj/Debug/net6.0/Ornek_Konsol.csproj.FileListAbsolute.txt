@@ -1,0 +1,14 @@
+D:\work\C#projects\CSharp.net\Udemy Projeler\Ornek_Konsol\Ornek_Konsol\bin\Debug\net6.0\Ornek_Konsol.exe
+D:\work\C#projects\CSharp.net\Udemy Projeler\Ornek_Konsol\Ornek_Konsol\bin\Debug\net6.0\Ornek_Konsol.deps.json
+D:\work\C#projects\CSharp.net\Udemy Projeler\Ornek_Konsol\Ornek_Konsol\bin\Debug\net6.0\Ornek_Konsol.runtimeconfig.json
+D:\work\C#projects\CSharp.net\Udemy Projeler\Ornek_Konsol\Ornek_Konsol\bin\Debug\net6.0\Ornek_Konsol.dll
+D:\work\C#projects\CSharp.net\Udemy Projeler\Ornek_Konsol\Ornek_Konsol\bin\Debug\net6.0\Ornek_Konsol.pdb
+D:\work\C#projects\CSharp.net\Udemy Projeler\Ornek_Konsol\Ornek_Konsol\obj\Debug\net6.0\Ornek_Konsol.GeneratedMSBuildEditorConfig.editorconfig
+D:\work\C#projects\CSharp.net\Udemy Projeler\Ornek_Konsol\Ornek_Konsol\obj\Debug\net6.0\Ornek_Konsol.AssemblyInfoInputs.cache
+D:\work\C#projects\CSharp.net\Udemy Projeler\Ornek_Konsol\Ornek_Konsol\obj\Debug\net6.0\Ornek_Konsol.AssemblyInfo.cs
+D:\work\C#projects\CSharp.net\Udemy Projeler\Ornek_Konsol\Ornek_Konsol\obj\Debug\net6.0\Ornek_Konsol.csproj.CoreCompileInputs.cache
+D:\work\C#projects\CSharp.net\Udemy Projeler\Ornek_Konsol\Ornek_Konsol\obj\Debug\net6.0\Ornek_Konsol.dll
+D:\work\C#projects\CSharp.net\Udemy Projeler\Ornek_Konsol\Ornek_Konsol\obj\Debug\net6.0\refint\Ornek_Konsol.dll
+D:\work\C#projects\CSharp.net\Udemy Projeler\Ornek_Konsol\Ornek_Konsol\obj\Debug\net6.0\Ornek_Konsol.pdb
+D:\work\C#projects\CSharp.net\Udemy Projeler\Ornek_Konsol\Ornek_Konsol\obj\Debug\net6.0\Ornek_Konsol.genruntimeconfig.cache
+D:\work\C#projects\CSharp.net\Udemy Projeler\Ornek_Konsol\Ornek_Konsol\obj\Debug\net6.0\ref\Ornek_Konsol.dll

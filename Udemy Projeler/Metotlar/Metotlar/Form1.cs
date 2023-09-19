@@ -44,5 +44,16 @@ namespace Metotlar
         {
             renklendir();
         }
+
+        int toplam(int sayi1,int sayi2)
+        {
+            int toplam=sayi1+ sayi2;
+            return toplam;
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            label1.Text = Convert.ToString(toplam(4, 6));
+        }
     }
 }

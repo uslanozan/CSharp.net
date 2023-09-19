@@ -1,0 +1,11 @@
+D:\work\C#projects\CSharp.net\Udemy Projeler\Class\Class\obj\Debug\Class.csproj.AssemblyReference.cache
+D:\work\C#projects\CSharp.net\Udemy Projeler\Class\Class\obj\Debug\Class.Form1.resources
+D:\work\C#projects\CSharp.net\Udemy Projeler\Class\Class\obj\Debug\Class.Form2.resources
+D:\work\C#projects\CSharp.net\Udemy Projeler\Class\Class\obj\Debug\Class.Properties.Resources.resources
+D:\work\C#projects\CSharp.net\Udemy Projeler\Class\Class\obj\Debug\Class.csproj.GenerateResource.cache
+D:\work\C#projects\CSharp.net\Udemy Projeler\Class\Class\obj\Debug\Class.csproj.CoreCompileInputs.cache
+D:\work\C#projects\CSharp.net\Udemy Projeler\Class\Class\bin\Debug\Class.exe.config
+D:\work\C#projects\CSharp.net\Udemy Projeler\Class\Class\bin\Debug\Class.exe
+D:\work\C#projects\CSharp.net\Udemy Projeler\Class\Class\bin\Debug\Class.pdb
+D:\work\C#projects\CSharp.net\Udemy Projeler\Class\Class\obj\Debug\Class.exe
+D:\work\C#projects\CSharp.net\Udemy Projeler\Class\Class\obj\Debug\Class.pdb
