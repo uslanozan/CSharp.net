@@ -1,0 +1,11 @@
+D:\work\C#projects\CSharp.net\Udemy Projeler\Captcha\Captcha\bin\Debug\Captcha.exe.config
+D:\work\C#projects\CSharp.net\Udemy Projeler\Captcha\Captcha\bin\Debug\Captcha.exe
+D:\work\C#projects\CSharp.net\Udemy Projeler\Captcha\Captcha\bin\Debug\Captcha.pdb
+D:\work\C#projects\CSharp.net\Udemy Projeler\Captcha\Captcha\obj\Debug\Captcha.csproj.AssemblyReference.cache
+D:\work\C#projects\CSharp.net\Udemy Projeler\Captcha\Captcha\obj\Debug\Captcha.Form1.resources
+D:\work\C#projects\CSharp.net\Udemy Projeler\Captcha\Captcha\obj\Debug\Captcha.Properties.Resources.resources
+D:\work\C#projects\CSharp.net\Udemy Projeler\Captcha\Captcha\obj\Debug\Captcha.csproj.GenerateResource.cache
+D:\work\C#projects\CSharp.net\Udemy Projeler\Captcha\Captcha\obj\Debug\Captcha.csproj.CoreCompileInputs.cache
+D:\work\C#projects\CSharp.net\Udemy Projeler\Captcha\Captcha\obj\Debug\Captcha.exe
+D:\work\C#projects\CSharp.net\Udemy Projeler\Captcha\Captcha\obj\Debug\Captcha.pdb
+D:\work\C#projects\CSharp.net\Udemy Projeler\Captcha\Captcha\obj\Debug\Captcha.Form2.resources

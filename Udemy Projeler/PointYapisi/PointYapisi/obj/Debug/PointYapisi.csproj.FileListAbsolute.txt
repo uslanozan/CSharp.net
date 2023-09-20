@@ -1,0 +1,10 @@
+D:\work\C#projects\CSharp.net\Udemy Projeler\PointYapisi\PointYapisi\bin\Debug\PointYapisi.exe.config
+D:\work\C#projects\CSharp.net\Udemy Projeler\PointYapisi\PointYapisi\bin\Debug\PointYapisi.exe
+D:\work\C#projects\CSharp.net\Udemy Projeler\PointYapisi\PointYapisi\bin\Debug\PointYapisi.pdb
+D:\work\C#projects\CSharp.net\Udemy Projeler\PointYapisi\PointYapisi\obj\Debug\PointYapisi.csproj.AssemblyReference.cache
+D:\work\C#projects\CSharp.net\Udemy Projeler\PointYapisi\PointYapisi\obj\Debug\PointYapisi.Form1.resources
+D:\work\C#projects\CSharp.net\Udemy Projeler\PointYapisi\PointYapisi\obj\Debug\PointYapisi.Properties.Resources.resources
+D:\work\C#projects\CSharp.net\Udemy Projeler\PointYapisi\PointYapisi\obj\Debug\PointYapisi.csproj.GenerateResource.cache
+D:\work\C#projects\CSharp.net\Udemy Projeler\PointYapisi\PointYapisi\obj\Debug\PointYapisi.csproj.CoreCompileInputs.cache
+D:\work\C#projects\CSharp.net\Udemy Projeler\PointYapisi\PointYapisi\obj\Debug\PointYapisi.exe
+D:\work\C#projects\CSharp.net\Udemy Projeler\PointYapisi\PointYapisi\obj\Debug\PointYapisi.pdb

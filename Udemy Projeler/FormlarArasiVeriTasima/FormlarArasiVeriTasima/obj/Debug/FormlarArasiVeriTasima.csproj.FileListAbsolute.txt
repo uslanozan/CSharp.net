@@ -1,0 +1,11 @@
+D:\work\C#projects\CSharp.net\Udemy Projeler\FormlarArasiVeriTasima\FormlarArasiVeriTasima\bin\Debug\FormlarArasiVeriTasima.exe.config
+D:\work\C#projects\CSharp.net\Udemy Projeler\FormlarArasiVeriTasima\FormlarArasiVeriTasima\bin\Debug\FormlarArasiVeriTasima.exe
+D:\work\C#projects\CSharp.net\Udemy Projeler\FormlarArasiVeriTasima\FormlarArasiVeriTasima\bin\Debug\FormlarArasiVeriTasima.pdb
+D:\work\C#projects\CSharp.net\Udemy Projeler\FormlarArasiVeriTasima\FormlarArasiVeriTasima\obj\Debug\FormlarArasiVeriTasima.csproj.AssemblyReference.cache
+D:\work\C#projects\CSharp.net\Udemy Projeler\FormlarArasiVeriTasima\FormlarArasiVeriTasima\obj\Debug\FormlarArasiVeriTasima.Form1.resources
+D:\work\C#projects\CSharp.net\Udemy Projeler\FormlarArasiVeriTasima\FormlarArasiVeriTasima\obj\Debug\FormlarArasiVeriTasima.Form2.resources
+D:\work\C#projects\CSharp.net\Udemy Projeler\FormlarArasiVeriTasima\FormlarArasiVeriTasima\obj\Debug\FormlarArasiVeriTasima.Properties.Resources.resources
+D:\work\C#projects\CSharp.net\Udemy Projeler\FormlarArasiVeriTasima\FormlarArasiVeriTasima\obj\Debug\FormlarArasiVeriTasima.csproj.GenerateResource.cache
+D:\work\C#projects\CSharp.net\Udemy Projeler\FormlarArasiVeriTasima\FormlarArasiVeriTasima\obj\Debug\FormlarArasiVeriTasima.csproj.CoreCompileInputs.cache
+D:\work\C#projects\CSharp.net\Udemy Projeler\FormlarArasiVeriTasima\FormlarArasiVeriTasima\obj\Debug\FormlarArasiVeriTasima.exe
+D:\work\C#projects\CSharp.net\Udemy Projeler\FormlarArasiVeriTasima\FormlarArasiVeriTasima\obj\Debug\FormlarArasiVeriTasima.pdb

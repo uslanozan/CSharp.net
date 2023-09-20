@@ -1,0 +1,10 @@
+D:\work\C#projects\CSharp.net\Udemy Projeler\SayisalLoto\SayisalLoto\bin\Debug\SayisalLoto.exe.config
+D:\work\C#projects\CSharp.net\Udemy Projeler\SayisalLoto\SayisalLoto\bin\Debug\SayisalLoto.exe
+D:\work\C#projects\CSharp.net\Udemy Projeler\SayisalLoto\SayisalLoto\bin\Debug\SayisalLoto.pdb
+D:\work\C#projects\CSharp.net\Udemy Projeler\SayisalLoto\SayisalLoto\obj\Debug\SayisalLoto.csproj.AssemblyReference.cache
+D:\work\C#projects\CSharp.net\Udemy Projeler\SayisalLoto\SayisalLoto\obj\Debug\SayisalLoto.Form1.resources
+D:\work\C#projects\CSharp.net\Udemy Projeler\SayisalLoto\SayisalLoto\obj\Debug\SayisalLoto.Properties.Resources.resources
+D:\work\C#projects\CSharp.net\Udemy Projeler\SayisalLoto\SayisalLoto\obj\Debug\SayisalLoto.csproj.GenerateResource.cache
+D:\work\C#projects\CSharp.net\Udemy Projeler\SayisalLoto\SayisalLoto\obj\Debug\SayisalLoto.csproj.CoreCompileInputs.cache
+D:\work\C#projects\CSharp.net\Udemy Projeler\SayisalLoto\SayisalLoto\obj\Debug\SayisalLoto.exe
+D:\work\C#projects\CSharp.net\Udemy Projeler\SayisalLoto\SayisalLoto\obj\Debug\SayisalLoto.pdb
